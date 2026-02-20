@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "Smart Homes Plus | Smart Home Solutions in Riyadh",
+    "description": "Professional smart home solutions in Riyadh. Installation and setup of smart systems for lighting, AC, curtains, and security. 2-year warranty.",
+    "keywords": "smart home, smart home installation, smart home solutions Riyadh, smart systems, home automation, smart control"
+  },
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "packages": "Packages",
+    "whyUs": "Why Us",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "header": {
+    "call": "Call",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "title": "Transform Your Home Into a",
+    "titleHighlight": "Smart Home",
+    "subtitle": "Complete smart home solutions in Riyadh - from foundation to full installation",
+    "trustChips": {
+      "warranty": "2-Year Warranty",
+      "installation": "Professional Installation",
+      "support": "Support & Maintenance"
+    },
+    "ctaPrimary": "Contact via WhatsApp",
+    "ctaSecondary": "Call Us"
+  },
+  "painPoints": {
+    "title": "Facing These Challenges?",
+    "subtitle": "We understand your problems and provide the right solutions",
+    "cards": {
+      "highBills": {
+        "title": "High Electricity Bills",
+        "description": "Unregulated energy consumption leads to expensive monthly costs"
+      },
+      "complexControls": {
+        "title": "Multiple Controllers",
+        "description": "Difficulty managing separate devices for each home system"
+      },
+      "securityConcerns": {
+        "title": "Constant Security Concerns",
+        "description": "Inability to monitor your home while away"
+      },
+      "futureProof": {
+        "title": "Difficult to Upgrade",
+        "description": "Traditional infrastructure doesn't support modern technologies"
+      }
+    }
+  },
+  "solutions": {
+    "title": "Our Smart Solutions",
+    "subtitle": "We offer a complete range of solutions to transform your home",
+    "items": {
+      "lighting": {
+        "title": "Smart Lighting",
+        "description": "Full lighting control with dimming, color changing, and scheduling capabilities"
+      },
+      "ac": {
+        "title": "Smart AC",
+        "description": "Remote temperature control with automatic energy saving features"
+      },
+      "curtains": {
+        "title": "Smart Curtains",
+        "description": "Automatically open and close curtains based on time or temperature"
+      },
+      "security": {
+        "title": "Smart Security",
+        "description": "Surveillance cameras, smart locks, and multiple sensors to protect your home"
+      },
+      "scenes": {
+        "title": "Smart Scenes",
+        "description": "Create custom modes that combine multiple devices in one scenario"
+      },
+      "network": {
+        "title": "Smart Network",
+        "description": "Strong infrastructure to connect all devices stably and securely"
+      }
+    }
+  },
+  "packages": {
+    "title": "Our Packages",
+    "subtitle": "Choose the package that suits your needs",
+    "mostPopular": "Most Popular",
+    "pricing": "After Inspection",
+    "selectPackage": "Select This Package",
+    "foundation": {
+      "name": "Smart Foundation",
+      "description": "The perfect infrastructure for your home",
+      "features": [
+        "Pre-wiring infrastructure",
+        "Point distribution plan",
+        "Ready for smart systems",
+        "Testing and handover",
+        "2-year warranty"
+      ]
+    },
+    "living": {
+      "name": "Smart Living",
+      "description": "Complete control of your home",
+      "features": [
+        "Lighting control + dimming/colors",
+        "AC control",
+        "Curtain control",
+        "Smart scenes",
+        "Unified app + voice",
+        "2-year warranty + 3 months support"
+      ]
+    },
+    "security": {
+      "name": "Smart Security Pro",
+      "description": "Comprehensive protection for your home",
+      "features": [
+        "Smart locks",
+        "Surveillance cameras",
+        "Sensors (motion/gas/water leak/smoke)",
+        "Mobile alerts",
+        "2-year warranty + 6 months support"
+      ]
+    },
+    "maintenance": {
+      "title": "Annual Maintenance Contract",
+      "description": "Regular maintenance and continuous technical support",
+      "features": [
+        "Periodic maintenance visits",
+        "Technical support throughout the year",
+        "System updates",
+        "Discount on additions"
+      ]
+    },
+    "comparison": {
+      "title": "Package Comparison",
+      "features": {
+        "foundation": "Smart Foundation",
+        "lighting": "Smart Lighting",
+        "ac": "Smart AC",
+        "curtains": "Smart Curtains",
+        "scenes": "Smart Scenes",
+        "security": "Smart Security",
+        "support": "Technical Support"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Us?",
+    "subtitle": "We offer a different experience in the world of smart homes",
+    "points": {
+      "engineering": {
+        "title": "Engineering Approach",
+        "description": "Precise design based on your actual needs"
+      },
+      "cleanInstall": {
+        "title": "Clean Installation",
+        "description": "Professional team ensures quality installation without mess"
+      },
+      "warranty": {
+        "title": "Clear Warranty",
+        "description": "2-year warranty on all work with documented contract"
+      },
+      "brands": {
+        "title": "Flexible Brands",
+        "description": "We use the best brands according to your budget and needs"
+      },
+      "support": {
+        "title": "After-Sales Support",
+        "description": "Support team ready to help you anytime"
+      }
+    }
+  },
+  "steps": {
+    "title": "Our Process",
+    "subtitle": "Your journey to a smart home in 5 simple steps",
+    "items": {
+      "contact": {
+        "title": "Contact",
+        "description": "Reach us via phone or WhatsApp"
+      },
+      "assessment": {
+        "title": "Assessment",
+        "description": "Site visit to evaluate your needs"
+      },
+      "proposal": {
+        "title": "Proposal",
+        "description": "Detailed technical and financial proposal"
+      },
+      "installation": {
+        "title": "Installation",
+        "description": "High-quality installation execution"
+      },
+      "handover": {
+        "title": "Handover & Support",
+        "description": "System handover with training and support"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "What our customers say about their experience",
+    "items": [
+      {
+        "name": "Ahmed Al-Salem",
+        "role": "Villa Owner",
+        "text": "A great experience from start to finish. The team is professional and the installation was very clean."
+      },
+      {
+        "name": "Khaled Al-Omari",
+        "role": "Business Owner",
+        "text": "We saved a lot on electricity bills after installing the smart system. I recommend this service to everyone."
+      },
+      {
+        "name": "Fahad Al-Dosari",
+        "role": "Engineer",
+        "text": "High quality and excellent support. Any inquiry is answered immediately."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": {
+      "duration": {
+        "question": "How long does installation take?",
+        "answer": "It depends on the project size, but typically takes 3-7 working days for regular homes."
+      },
+      "existingWiring": {
+        "question": "Does it work with existing wiring?",
+        "answer": "Yes, in most cases we can work with existing infrastructure. In some cases, we may need minor modifications."
+      },
+      "brands": {
+        "question": "What brands do you use?",
+        "answer": "We use a variety of top international brands like Philips Hue, Tuya, Sonoff, and others based on your needs and budget."
+      },
+      "warranty": {
+        "question": "What are the warranty details?",
+        "answer": "We offer a 2-year warranty on all work and devices, with continuous technical support during the warranty period."
+      },
+      "expansion": {
+        "question": "Can I expand later?",
+        "answer": "Absolutely! We design our systems to be expandable at any time you wish."
+      },
+      "afterAssessment": {
+        "question": "What happens after the assessment?",
+        "answer": "After the site visit, we provide you with a detailed technical and financial proposal within 24-48 hours."
+      }
+    }
+  },
+  "finalCta": {
+    "title": "Ready to Transform Your Home?",
+    "subtitle": "Contact us now and get a free consultation",
+    "whatsapp": "Contact via WhatsApp",
+    "call": "Call Us Now"
+  },
+  "footer": {
+    "brand": "Smart Homes Plus",
+    "tagline": "Smart Home Solutions in Riyadh",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "quickLinks": "Quick Links",
+    "rights": "All Rights Reserved"
+  },
+  "stickyCta": {
+    "call": "Call",
+    "whatsapp": "WhatsApp"
+  },
+  "assessmentForm": {
+    "title": "Request Free Assessment",
+    "name": "Name",
+    "phone": "Phone Number",
+    "submit": "Submit Request",
+    "success": "Your request has been submitted successfully! We will contact you soon."
+  }
+}
