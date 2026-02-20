@@ -6,7 +6,7 @@ import { defineConfig } from "vite"
 export default defineConfig({
   // Base path for GitHub Pages
   // Change this to match your repository name: '/your-repo-name/'
-  base: '/smart-homes-plus/',
+  base: '/smart-homes-plus-v2/',
   
   plugins: [react()],
   
